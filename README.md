@@ -4,6 +4,9 @@
 
 ​I am happy to share my new programming project: an integrated tool for calculating age and time with extreme precision. The program does not only calculate years; it was built to provide full temporal details from the moment of birth until the current moment.
 
+
+ Modular Architecture: > This project integrates my Personal C++ Utility Library to enhance code readability, ensure high organization, and promote efficient code reusability. By isolating core logic into a standalone library, the main program remains clean and focused on its primary functionality.
+ 
 ​✅ Program Features:
 
 ​● Extreme Precision: Calculating age in years, months, weeks, days, hours, and minutes.
